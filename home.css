@@ -743,8 +743,12 @@ header .sticky{
 }
 
 .portoflio-model-body .learn-more-btn{
-    color: var(--third-color);
+    color: var(--first-color);
     cursor: pointer;
+}
+
+.portoflio-model-body .learn-more-btn i{
+    color: var(--second-color);
 }
 
 .portoflio-model-body .service-modal{
